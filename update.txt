@@ -1,7 +1,7 @@
 {
     "aaData": [
         {
-			"update": "Text 1"
+			"update": "Februari 2015 - Release pertama"
         }
     ]
 }
