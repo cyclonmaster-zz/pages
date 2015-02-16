@@ -1,7 +1,7 @@
 {
     "aaData": [
         {
-			"update": "Februari 2015 - Release pertama daripada cygnosis. <a target='_blank' href=\'http://knowledgewithoutlimitation.blogspot.com\'>http://knowledgewithoutlimitation.blogspot.com</a>"
+			"Notis": "Februari 2015 - Release pertama daripada cygnosis."
         }
     ]
 }
