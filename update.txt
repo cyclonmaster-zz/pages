@@ -1,7 +1,8 @@
 {
     "aaData": [
         {
-			"Notis": "Februari 2015 - Release pertama daripada cygnosis."
+			"id": 1,
+			"update": "Feb 2015 - Release pertama daripada cygnosis."
         }
     ]
 }
