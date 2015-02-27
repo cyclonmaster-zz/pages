@@ -1,0 +1,27 @@
+{
+    "status": true,
+    "data": {
+        "products": [
+            {
+                "id": "1",
+                "name": "Page1",
+                "image_url": "http://cyclonmaster.github.io/pages/sampleimage1.png"
+            },
+            {
+                "id": "2",
+                "name": "Page2",
+                "image_url": "http://cyclonmaster.github.io/pages/sampleimage2.png"
+			},
+            {
+                "id": "3",
+                "name": "Page3",
+                "image_url": "http://cyclonmaster.github.io/pages/sampleimage3.png"
+            },
+			 {
+                "id": "4",
+                "name": "Page4",
+                "image_url": "http://cyclonmaster.github.io/pages/sampleimage4.png"
+            }
+        ]
+    }
+}
