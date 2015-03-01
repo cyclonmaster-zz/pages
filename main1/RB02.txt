@@ -1,4 +1,7 @@
 {
+	"status": true,
+    "data": {
+	
     "aaData": [
         {  "image": "http://cyclonmaster.github.io/pages/main1/RB02/Raja Bola ep 020000.jpg", "order": 1  },
         {  "image": "http://cyclonmaster.github.io/pages/main1/RB02/Raja Bola ep 020001.jpg", "order": 2  },
@@ -34,4 +37,5 @@
 		{  "image": "http://cyclonmaster.github.io/pages/main1/RB02/Raja Bola ep 020031.jpg", "order": 32  },
 		{  "image": "http://cyclonmaster.github.io/pages/main1/RB02/Raja Bola ep 020032.jpg", "order": 33  }
     ]
+	}
 }
