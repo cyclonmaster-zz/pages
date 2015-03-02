@@ -4,9 +4,13 @@
 			"id": 1,
 			"update": "Feb 2015 - Release pertama daripada cygnosis."
         },
-	{
+		{
 			"id": 2,
 			"update": "Feb 2015 - Refresh id clean up."
+        },
+		{
+			"id": 3,
+			"update": "Mac 2015 - New version coming by end of this week."
         }
     ]
 }
