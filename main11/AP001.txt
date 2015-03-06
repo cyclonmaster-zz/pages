@@ -47,7 +47,7 @@
 		{  "image": "http://cyclonmaster.github.io/pages/main11/AP001/25a.jpg", "order": 42  },
 		{  "image": "http://cyclonmaster.github.io/pages/main11/AP001/25b.jpg", "order": 43  },
 		{  "image": "http://cyclonmaster.github.io/pages/main11/AP001/26a.jpg", "order": 44  },
-		{  "image": "http://cyclonmaster.github.io/pages/main11/AP001/26b.jpg", "order": 45  },
+		{  "image": "http://cyclonmaster.github.io/pages/main11/AP001/26b.jpg", "order": 45  }
     ]
 	}
 }
