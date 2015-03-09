@@ -1,6 +1,10 @@
 {
     "aaData": [		
 		{
+			"id": 4,
+			"update": "version 1.4.0 released. http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap"
+        },
+		{
 			"id": 3,
 			"update": "Mac 2015 - New version coming by end of this week."
         },
