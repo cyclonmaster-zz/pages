@@ -1,5 +1,9 @@
 {
-    "aaData": [		
+    "aaData": [
+		{
+			"id": 5,
+			"update": "version 1.5.0 released. http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap" . Library expand, update sekarang.
+        },
 		{
 			"id": 4,
 			"update": "version 1.4.0 released. http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap"
