@@ -1,8 +1,12 @@
 {
     "aaData": [
 		{
+			"id": 6,
+			"update": "update juara jalanan 1-10."
+        },
+		{
 			"id": 5,
-			"update": "version 1.5.0 released. http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap" . Library expand, update sekarang.
+			"update": "version 1.5.0 released. http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap . Library expand, update sekarang."
         },
 		{
 			"id": 4,
