@@ -1,6 +1,10 @@
 {
     "aaData": [
 		{
+			"id": 7,
+			"update": "update jengking merah up to 11."
+        },
+		{
 			"id": 6,
 			"update": "update juara jalanan 1-10."
         },
