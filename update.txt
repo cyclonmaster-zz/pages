@@ -1,6 +1,10 @@
 {
     "aaData": [
 		{
+			"id": 8,
+			"update": "In the process updating everything and remove all experiment junks. Stay tuned."
+        },
+		{
 			"id": 7,
 			"update": "update jengking merah up to 11."
         },
