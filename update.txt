@@ -1,8 +1,12 @@
 {
     "aaData": [
 		{
+			"id": 10,
+			"update": "Ver 1.7.0 released.Remove EULA.Update now: http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap"
+        },
+		{
 			"id": 9,
-			"update": "version 1.6.0 released. New app policy. No harm, just click OK. http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap"
+			"update": "version 1.6.0 released. New app policy, just click OK. http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap"
         },
 		{
 			"id": 8,
