@@ -1,6 +1,14 @@
 {
     "aaData": [
 		{
+			"id": 12,
+			"update": "Ikuti fanpage G+ NangAntap https://plus.google.com/u/0/communities/111484562601923732324"
+        },
+		{
+			"id": 11,
+			"update": "Lengkap Jengking Merah, kemaskini sekarang di amazon app store"
+        },
+		{
 			"id": 10,
 			"update": "Ver 1.7.0 released.Remove EULA.Update now: http://www.amazon.com/gp/mas/dl/android?p=com.cygnosis729.NangAntap"
         },
